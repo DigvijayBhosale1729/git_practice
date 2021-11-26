@@ -1,0 +1,1 @@
+print("Shubhangi is good mata")
